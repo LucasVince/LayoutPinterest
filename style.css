@@ -13,11 +13,11 @@ body {
 #corpo {
     max-width: 700px;
     margin: auto;
-    background-color: black;
+    background-color: black
 }
 
 header {
-    background-color: black;
+    background-color: #050505;
     position: fixed;
     top: 0;
     left: 0;
@@ -56,7 +56,7 @@ main img {
 }
 
 footer {
-    background: black;
+    background: #050505;
     position: fixed;
     bottom: 0;
     left: 0;
