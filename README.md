@@ -1,3 +1,3 @@
 # LayoutPinterest
  
-lucasvince.github.io/LayoutPinterest/
+https://lucasvince.github.io/LayoutPinterest/
